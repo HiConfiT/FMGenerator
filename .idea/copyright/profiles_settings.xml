@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="fm-gen">
+    <module2copyright>
+      <element module="All" copyright="fm-gen" />
+    </module2copyright>
+  </settings>
+</component>
