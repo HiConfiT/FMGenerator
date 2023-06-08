@@ -2,7 +2,7 @@
 
 | *version* | *status* |
 |---|---|
-| [1.3](https://github.com/manleviet/CA-CDR-V2/releases/tag/fm-gen-v1.3) | stable |
+| [1.3](https://github.com/HiConfiT/FMGenerator/releases/tag/v1.3) | stable |
 
 `fm_gen` is a Java `jar` tool that generates synthesized feature models on the basis of the [Betty framework].
 
